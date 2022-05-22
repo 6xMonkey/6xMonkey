@@ -1,3 +1,7 @@
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=6xMonkey&show_icons=true&theme=dark&count_private=true)
+
+
 - 👋 Hi, I’m @6xMonkey
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Github and python，hahahaha......
